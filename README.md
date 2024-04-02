@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently AI engineer working in TAI
-
+Hello, I'm an AI Engineer and passionate Python programmer with a keen interest in Large Language Models (LLMs). Beyond coding, I find solace in the pages of captivating books, constantly seeking knowledge and inspiration.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realsanjeev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/realsanjeev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/realsanjeev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/realsanjeev2) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/realsanjeev) 
